@@ -13,7 +13,7 @@ import TodoItem from "./components/TodoItem.vue";
       Link for the GitHub Repository:
       <a
         class="footer__link"
-        href="https://github.com/rohan09-raj/lift-simulation"
+        href="https://github.com/rohan09-raj/todo-app"
         target="_blank"
         rel="noopener noreferrer"
         >Source Code</a
